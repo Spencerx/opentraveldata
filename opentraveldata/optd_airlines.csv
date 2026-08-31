@@ -671,6 +671,7 @@ air-fly540-tanzania-v1^1^2011-01-01^2019-11-30^FTZ^FN^334^Fastjet^^^^^https://en
 air-fly540-v1^^2006-01-01^^FFV^5H^540^Five Fourty Aviation^^^^^https://en.wikipedia.org/wiki/Fly540^3546^en|Five Fourty Aviation|=en|Fly540|ps^NBO^air-fly540^1^^
 air-flyadeal-v1^^2017-09-23^^FAD^F3^0^Flyadeal^^^^^https://en.wikipedia.org/wiki/Flyadeal^11777^ar|طيران أديل‎)|=en|Flyadeal|^JED^air-flyadeal^1^^
 air-flyafrica-zimbabwe-v1^1^2014-07-17^2015-10-31^FZW^Z7^0^Zimbabwe flyafrica.com^^^^^https://en.wikipedia.org/wiki/Zimbabwe_flyafrica.com^^en|Zimbabwe flyafrica.com|^HRE^air-flyafrica-zimbabwe^1^^
+air-flyarystan-v1^^2023-02-01^^AYN^FS^^FlyArystan^^^^^https://en.wikipedia.org/wiki/FlyArystan^^^^air-flyarystan^1^^
 air-flybaghdad-v1^^2015-06-15^^FBA^IF^0^FlyBaghdad^^^^^https://en.wikipedia.org/wiki/FlyBaghdad^225^en|FlyBaghdad|^^air-flybaghdad^1^^
 air-flybe-v1^^1979-01-01^^BEE^BE^267^Flybe^Brit Europ^^^^https://en.wikipedia.org/wiki/Flybe^^en|Flybe|=en|Brit Europ|^^air-flybe^1^^
 air-flycongo-v1^1^2012-03-24^2013-10-31^ALX^EO^663^FlyCongo^^^^^https://en.wikipedia.org/wiki/FlyCongo^^en|FlyCongo|^FIH^air-flycongo^1^^
@@ -678,7 +679,7 @@ air-flydamas-v1^^2013-01-01^2018-12-31^FDK^4J^0^Flydamas Airlines^^^^^https://en
 air-flydubai-v1^^2009-06-01^^FDB^FZ^141^flydubai^Dubai Aviation Corporation^^^^https://en.wikipedia.org/wiki/Flydubai^78086^en|flydubai|=en|Dubai Aviation Corporation|^^air-flydubai^1^^
 air-flyegypt-v1^^2015-02-12^^FEG^FT^171^FlyEgypt^^^^^https://en.wikipedia.org/wiki/FlyEgypt^142^en|FlyEgypt|^KWI^air-flyegypt^1^^
 air-flyfirefly-v1^^2007-01-01^^FFM^FY^918^Flyfirefly^^^^^https://en.wikipedia.org/wiki/Firefly_%28airline%29^29151^en|Flyfirefly|=en|FlyFirefly Sdn Bhd|^^air-flyfirefly^1^^
-air-flyr-v1^^^^FOX^FS^^Flyr^^^^^^^^^air-flyr^1^^
+air-flyr-v1^^^2023-01-31^FOX^FS^^Flyr^^^^^^^^^air-flyr^1^^
 air-flywell-airlines-v1^1^1995-01-01^2003-12-12^FEM^YZ^0^Zimbabwe Airlink^Flywell Airlines^^^P^https://en.wikipedia.org/wiki/Zimbabwe_Airlink^^en|Zimbabwe Airlink|=en|Flywell Airlines|^^air-flywell-airlines^1^^
 air-fmi-air-v1^^2012-09-01^^FMI^ND^0^FMI Air^^^^^https://en.wikipedia.org/wiki/FMI_Air^260^en|FMI Air|^^air-fmi-air^1^^
 air-forty-mile-air-v1^^^^MLA^Q5^0^Forty Mile Air^^^^^^1676^en|Forty Mile Air|^^air-forty-mile-air^1^^
@@ -959,6 +960,7 @@ air-malev-hungarian-airlines-v1^1^1956-11-25^2012-02-03^MAH^MA^182^MALÉV Hungar
 air-malmo-aviation-v1^1^1981-01-01^2016-02-29^SCW^TF^276^Malmö Aviation^Malmo Aviation^^^^https://en.wikipedia.org/wiki/Malm%C3%B6_Aviation^^en|Malmö Aviation|^^air-malmo-aviation^1^^
 air-malmo-aviation-v2^^2016-03-01^^BRA^TF^276^BRA^^^^P^https://en.wikipedia.org/wiki/BRA_%28airline%29^5767^en|BRA|ps=en|Braathens Regional Airlines|=en|Braathens Regional Aviation|=en|Malmö Aviation|h=en|Sundsvallsflyg|h=en|Kullaflyg|h=en|Kalmarflyg|h=en|Gotlandsflyg|h=en|Golden Air|h^BMA=THN^air-malmo-aviation^2^^
 air-malta-air-charter-v1^1^1990-01-01^2004-11-01^MAC^RS^0^Malta Air Charter^^^^^https://en.wikipedia.org/wiki/Malta_Air_Charter^^en|Malta Air Charter|^^air-malta-air-charter^1^^
+air-malta-air-v1^^2019-06-09^^MAY^MW^0^Malta Air^^^^^https://en.wikipedia.org/wiki/Malta_Air^^en|Malta Air|^^air-malta-air^1^^
 air-mandala-airlines-v1^1^1969-01-01^2014-12-31^MDL^RI^488^Tigerair Mandala^^^^^https://en.wikipedia.org/wiki/Tigerair_Mandala^^en|Tigerair Mandala|p=en|Mandala Airlines|h^CGK^air-mandala-airlines^1^^
 air-mandarin-airlines-v1^^^^MDA^AE^803^Mandarin Airlines^^Skyteam^Affiliate^^^22150^en|Mandarin Airlines|^^air-mandarin-airlines^1^^
 air-mango-v1^^2006-01-01^^MNO^JE^0^Mango^^^^^https://en.wikipedia.org/wiki/Mango_%28airline%29^13974^en|Mango|^^air-mango^1^^
@@ -1001,7 +1003,7 @@ air-mint-lineas-aereas-v1^^^^^IM^0^Mint Líneas Aéreas^Intensive Air^^^^^^en|Mi
 air-mirny-air-v1^^2000-01-01^^DRU^6R^0^ALROSA^^^^^https://en.wikipedia.org/wiki/ALROSA_%28airline%29^2922^en|ALROSA|p=en|CJSC Air Company ALROSA|=en|Mirny Air|h=ru|АЛРОСА|ps=ru|Авиакомпания «АЛРОСА»|=ru|ZAO Aviakompanija «ALROSA»|=sign|MIRNY|^MJZ=PYJ^air-mirny-air^1^^
 air-mistral-air-v1^^1981-01-01^^MSA^M4^334^Mistral Air^^^^^https://en.wikipedia.org/wiki/Mistral_Air^^en|Mistral Air|^^air-mistral-air^1^^
 air-mng-airlines-cargo-v1^^^^MNB^MB^716^Mng Airlines Cargo^^^^C^^^en|Mng Airlines Cargo|^^air-mng-airlines-cargo^1^^
-air-mokulele-flight-service-v1^^1994-01-01^^MKL^MW^415^Mokulele Airlines^^^^^https://en.wikipedia.org/wiki/Mokulele_Airlines^^en|Mokulele Airlines|^^air-mokulele-flight-service^1^^
+air-mokulele-flight-service-v1^^1994-01-01^^MKL^^415^Mokulele Airlines^^^^^https://en.wikipedia.org/wiki/Mokulele_Airlines^^en|Mokulele Airlines|^^air-mokulele-flight-service^1^^
 air-moldavian-airlines-v1^1^1994-08-19^2015-12-31^MDV^2M^860^Moldavian Airlines^^^^^https://en.wikipedia.org/wiki/Moldavian_Airlines^^en|Moldavian Airlines|=sign|MOLDAVIAN|^KIV^air-moldavian-airlines^1^^
 air-monacair-v1^^1988-01-01^^^QM^0^Monacair^^^^^https://en.wikipedia.org/wiki/Monacair^^en|Monacair|^^air-monacair^1^^
 air-monarch-airlines-v1^^1968-04-05^2017-10-02^MON^ZB^974^Monarch Airlines^^^^^https://en.wikipedia.org/wiki/Monarch_Airlines^^en|Monarch Airlines|^^air-monarch-airlines^1^^
